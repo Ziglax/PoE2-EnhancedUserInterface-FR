@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2899</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>&lt;line-height=100%&gt;Les arquebuses sont des armes à feu à mèche extrêmement puissantes et précises. Elles sont particulièrement appréciées pour leur capacité à pénétrer les Voiles, y compris le Voile mystérieux des esprits et des magiciens.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>&lt;line-height=100%&gt;Les grands boucliers sont utilisés lorsqu'un guerrier recherche la meilleure protection possible, même au détriment de sa précision. Bien qu'ils se présentent généralement sous la forme d'une « larme » à l'envers, il existe bien d'autres formes de grands boucliers et ceux-ci portent souvent des blasons.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>&lt;line-height=100%&gt;Les boucliers intermédiaires améliorent modérément la protection, au détriment de la précision. Ce sont les boucliers les plus utilisés de Dyrwood et il en existe différentes formes.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>&lt;line-height=100%&gt;Les petits boucliers n'offrent qu'une protection limitée mais ne réduisent pas la précision des guerriers qui les utilisent. Contrairement aux grands boucliers, qui se portent sur l'avant-bras, les petits boucliers se tiennent dans la main.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>&lt;line-height=100%&gt;Les lances ne sont pas aussi longues que les piques qui s'utilisent à deux mains mais elles sont plus faciles à manier et peuvent être utilisées en association avec un bouclier. Bien qu'il s'agisse d'armes à une main, elles peuvent asséner des coups redoutables d'une grande précision.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1337</ID>
+      <DefaultText>Les lances ne sont pas aussi longues que les piques (armes à deux mains) mais elles sont plus faciles à manier et peuvent être utilisées en association avec un bouclier. Bien qu'il s'agisse d'armes à une main, elles peuvent asséner des coups aussi redoutables que précis.
+
+Cette lance rudimentaire est décorée de plumes et de perles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1478</ID>
+      <DefaultText>&lt;line-height=100%&gt;Ces babioles confèrent +5 en Précision à toutes les attaques enflammées.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1798</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tous les ennemis dans la zone d'effet se mettent à luire d'un faible éclat vert, ce qui en fait des cibles plus faciles. Les ennemis affectés reçoivent un malus de Déviation et de Réflexes.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2361</ID>
+      <DefaultText>&lt;line-height=100%&gt;Ces couteaux d'énergie spirituelle infligent des dégâts bruts et génèrent de la Concentration pour le clairvoyant qui les a créés.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2838</ID>
+      <DefaultText>&lt;line-height=100%&gt;Cet anneau doré est gravé de runes huanas. La finesse des inscriptions et la précision des motifs signent le travail d'un maître-artisan. Des rainures sur sa partie inférieure laissent à penser qu'il se connecte à un mécanisme plus important.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2852</ID>
+      <DefaultText>&lt;line-height=100%&gt;Lorsque l'ourson vous suit, vous bénéficiez d'un bonus de Robustesse et votre groupe reçoit un bonus de dégâts au corps à corps.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2866</ID>
+      <DefaultText>&lt;line-height=100%&gt;Inflige {0} dégâts brûlants&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3114</ID>
+      <DefaultText>&lt;line-height=100%&gt;Orbe fragile contenant des substances caustiques et des gaz asphyxiants. Lorsqu'elle éclate, un nuage d'acide en surgit, infligeant des dégâts de corrosion et réduisant la Valeur d'armure des personnes dans sa zone d'effet.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3116</ID>
+      <DefaultText>&lt;line-height=100%&gt;Déconcertant agencement de fils et d'instruments élémentaires. La mèche de cuivre émet des étincelles inquiétantes à proximité de la chair et des armures. Lorsqu'il est activé, le dispositif projette un réseau d'éclairs, infligeant des dégâts électriques et éventuellement paralysant les créatures prises dans l'explosion.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3122</ID>
+      <DefaultText>&lt;line-height=100%&gt;Engin alchimique d'une puissance dévastatrice. De faibles murmures émanent de ses entrailles, chantant les ténèbres oppressantes. Lorsque la charge explose, une faille s'ouvre, aspirant tous ceux qui s'y trouvent vers l'horizon ténébreux et infligeant des dégâts contondants.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3138</ID>
+      <DefaultText>&lt;line-height=100%&gt;Cet élixir écœurant altère la peau et les structures corporelles internes pour accroître leur résistance aux dégâts brûlants, givrants, corrosifs et électriques.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3143</ID>
+      <DefaultText>&lt;line-height=100%&gt;Ce liquide bouillonnant brûle comme du feu lorsqu'on l'avale. Une fureur ardente embrase le fond des yeux, accroissant la Vitesse d'action, les dégâts au corps à corps, mais réduisant la Déviation.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3145</ID>
+      <DefaultText>&lt;line-height=100%&gt;Le liquide au sein de cette flasque écume et ondule tout seul. Lorsqu'on l'avale, l'élixir tord et transforme le visage, qui devient un masque cauchemardesque de chair putréfiée, infestée d'insectes, et provoquant chez les adversaires proches Terreur et Intoxication.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3154</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tonifie le corps, le protégeant contre les afflictions corporelles en réduisant leur intensité.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3156</ID>
+      <DefaultText>&lt;line-height=100%&gt;Cette potion chasse de l'esprit toute distraction et toute peur, réduisant l'efficacité des afflictions mentales.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3180</ID>
+      <DefaultText>&lt;line-height=100%&gt;Cet élixir infuse le tissu cellulaire, apportant à la chair une immunité aux effets brûlants, corrosifs, givrants et électriques pendant la durée de l'effet. Lorsque l'effet de la potion s'estompe ou si les dégâts subis sont trop importants, la protection cesse.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3197</ID>
+      <DefaultText>&lt;line-height=100%&gt;Octroie une précision infaillible, augmentant en conséquence la conversion d'échecs en éraflures, d'éraflures en coups, et de coups en coups critiques.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3394</ID>
+      <DefaultText>&lt;line-height=100%&gt;Invoque une faveur divine octroyant l'inspiration Subtilité aux alliés présents dans la zone d'effet.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3395</ID>
+      <DefaultText>&lt;line-height=100%&gt;Crée un cône de feu devant l'utilisateur infligeant des dégâts brûlants à quiconque se trouvant dans la zone d'effet.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3396</ID>
+      <DefaultText>&lt;line-height=100%&gt;Restaure une petite quantité de Santé à tous les alliés dans la zone d'effet.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3398</ID>
+      <DefaultText>&lt;line-height=100%&gt;Invoque un rayon de soleil intense, aux dégâts brûlants et pouvant infliger Aveuglement sur les ennemis présents dans la zone d'effet.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3401</ID>
+      <DefaultText>&lt;line-height=100%&gt;Invoque une puissante épée à la lame enflammée dans les mains de l'utilisateur, infligeant des dégâts brûlants. Le sort prend fin lorsque l'utilisateur change d'arme.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3402</ID>
+      <DefaultText>&lt;line-height=100%&gt;Attire une nuée d'insectes agressifs infligeant des dégâts &lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;#e72c2c&gt;bruts&lt;/color&gt;&lt;#ef5350&gt;&lt;space=0.3em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;space=0.5em&gt;&lt;/link&gt; sur la durée et réduisant la Concentration de quiconque se trouvant dans la zone d'effet.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3403</ID>
+      <DefaultText>&lt;line-height=100%&gt;Prière octroyant à une cible alliée l'inspiration Dynamisme pour une durée prolongée.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3404</ID>
+      <DefaultText>&lt;line-height=100%&gt;Crée entre l'utilisateur et la cible un rayon enflammé infligeant des dégâts brûlants sur la durée à la cible et à quiconque se trouvant sur le chemin du rayon.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3405</ID>
+      <DefaultText>&lt;line-height=100%&gt;Isole une cible unique au sein d'une sphère de protection, la gardant de tout danger et régénérant sa Santé.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3407</ID>
+      <DefaultText>&lt;line-height=100%&gt;Fait apparaître dans la main de l'utilisateur une boule d'énergie qui peut être lancée sur un ennemi et inflige des dégâts brûlants, givrants, corrosifs ou électriques à quiconque se trouve dans la zone d'effet. Les fléaux se régénèrent continuellement jusqu'à ce que le sort prenne fin.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3408</ID>
+      <DefaultText>&lt;line-height=100%&gt;Restaure une quantité modérée de Santé à tous les alliés dans la zone d'effet.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3409</ID>
+      <DefaultText>&lt;line-height=100%&gt;Prière octroyant à la cible alliée l'inspiration Sagacité pour une durée prolongée.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3410</ID>
+      <DefaultText>&lt;line-height=100%&gt;Fait apparaître un énorme bois de cerf attaquant la cible et infligeant des dégâts perforants ainsi qu'un malus de Déviation et de Réflexes.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3411</ID>
+      <DefaultText>&lt;line-height=100%&gt;Deux rochers jaillissent de la position de l'utilisateur, infligeant des dégâts contondants à toute personne se trouvant sur leur chemin. Les rochers explosent au contact de toute surface solide et les fragments infligent des dégâts perforants à quiconque se trouve à proximité.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3412</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tous ceux présents dans le cône d'effet reçoivent des dégâts brûlants et sont repoussés.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3413</ID>
+      <DefaultText>&lt;line-height=100%&gt;Crée une large zone de protection divine, conférant aux alliés un bonus à toutes les défenses (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Déviation&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Robustesse&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Réflexes&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt; et &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Volonté&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt;).&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3414</ID>
+      <DefaultText>&lt;line-height=100%&gt;Crée un rayon de force contondante, infligeant Stupéfaction à la cible ainsi qu'à ceux qui sont pris dans le rayon.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3415</ID>
+      <DefaultText>&lt;line-height=100%&gt;Projette sur la cible plusieurs missiles de force pure, ce qui déclenche une onde de choc infligeant des dégâts contondants aux ennemis proches de l'impact.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3416</ID>
+      <DefaultText>&lt;line-height=100%&gt;Canalise l'énergie lunaire et la focalise en une source de pouvoir régénérant la &lt;link="gamedata://91e98392-f468-44a4-83bd-1e9d1cc2e1aa"&gt;&lt;#80e27e&gt;Santé&lt;/color&gt;&lt;space=0.3em&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/link&gt; des alliés se trouvant dans la zone d'effet, et conférant un bonus mineur à toutes leurs défenses (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Déviation&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Robustesse&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Réflexes&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt; et &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Volonté&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt;).&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3418</ID>
+      <DefaultText>&lt;line-height=100%&gt;Fait apparaître un flambeau de lumière intense, infligeant aux ennemis présents dans la zone d'effet un malus à toutes les défenses (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Déviation&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Robustesse&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Réflexes&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt; et &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Volonté&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt;), ainsi que des dégâts &lt;link="glossary://GlossaryEntry_Burning"&gt;&lt;#e86a1d&gt;brûlants&lt;/color&gt;&lt;space=0.2em&gt;&lt;size=120%&gt;&lt;#d84315&gt;&lt;voffset=-0.05em&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;space=-4.6em&gt;&lt;#ff9800&gt;&lt;size=85%&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/size&gt;&lt;/color&gt;&lt;space=-2.9em&gt;&lt;size=45%&gt;&lt;#fff59d&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt; sur la durée.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3419</ID>
+      <DefaultText>&lt;line-height=100%&gt;Un trio de serres de pierre émergent du sol, pétrifiant les ennemis, infligeant Paralysie ainsi que des dégâts tranchants à tous ceux présents dans la zone.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3420</ID>
+      <DefaultText>&lt;line-height=100%&gt;Transforme un kith ennemi (aumaua, nain, elfe, divin, humain ou orlan) en cochon. Le cochon n'a que très peu de défenses (&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Déviation&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Fortitude"&gt;&lt;#f9d968&gt;Robustesse&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_fortitude" tint=1&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;Réflexes&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt; et &lt;link="glossary://GlossaryEntry_Will"&gt;&lt;#d591f8&gt;Volonté&lt;space=0.4em&gt;&lt;sprite="Inline" name="cs_will" tint=1&gt;&lt;space=-0.5em&gt;&lt;/color&gt;&lt;/link&gt;) mais peut se déplacer rapidement.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3421</ID>
+      <DefaultText>&lt;line-height=100%&gt;Restaure une quantité importante de Santé à tous les alliés dans la zone d'effet.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3422</ID>
+      <DefaultText>&lt;line-height=100%&gt;Déclenche une énorme invasion d'insectes venimeux infligeant des dégâts bruts sur la durée, réduisant la Concentration et infligeant Intoxication à quiconque se trouve dans la zone d'effet.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3423</ID>
+      <DefaultText>&lt;line-height=100%&gt;Ranime les alliés inconscients présents dans la zone d'effet en restaurant une petite partie de leur Santé.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3424</ID>
+      <DefaultText>&lt;line-height=100%&gt;Forme autour de l'utilisateur un brasier infernal infligeant des dégâts brûlants à tous ceux qui se trouvent à proximité.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3427</ID>
+      <DefaultText>&lt;line-height=100%&gt;Confère à l'utilisateur le regard mystérieux de la créature d'adra ayant donné son nom au sort, infligeant Pétrification aux ennemis présents dans la zone d'effet.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3428</ID>
+      <DefaultText>&lt;line-height=100%&gt;Fait apparaître une colonne de feu qui inflige des dégâts brûlants à tous ceux présents dans la zone d'effet.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3429</ID>
+      <DefaultText>&lt;line-height=100%&gt;L'utilisateur lance violemment une boule de feu sacré sur l'ennemi, neutralisant ses protections et le menant à sa perte. Inflige des dégâts brûlants pendant cinq secondes et accélère l'échéance de tous les effets bénéfiques de la cible (à l'exception des soins), ainsi que ceux d'éventuels dégâts continus. Peut rebondir sur jusqu'à deux ennemis proches.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3430</ID>
+      <DefaultText>&lt;line-height=100%&gt;Restaure une grande quantité de Santé à tous les alliés dans la zone d'effet.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3432</ID>
+      <DefaultText>&lt;line-height=100%&gt;Terrible averse de feu s'abattant sur la zone d'effet et infligeant des dégâts brûlants répétés sur tous les personnages présents.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3435</ID>
+      <DefaultText>&lt;line-height=100%&gt;Un vent desséchant souffle sur le champ de bataille, infligeant des dégâts bruts à quiconque se trouve dans la zone, et leur infligeant Affaiblissement.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3436</ID>
+      <DefaultText>&lt;line-height=100%&gt;Déclenche un vent glacial d'une incroyable puissance qui repousse tous ceux présents dans la zone d'effet et leur inflige des dégâts givrants.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3437</ID>
+      <DefaultText>&lt;line-height=100%&gt;L'utilisateur peut détruire tout esprit, réceptacle ou créature invoquée de niveau inférieur au sien dans la zone d'effet. Les cibles de niveau égal ou supérieur à celui de l'utilisateur subissent des dégâts bruts.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3439</ID>
+      <DefaultText>&lt;line-height=100%&gt;Série de chutes de météorites enflammées, martelant la zone d'impact de dégâts brûlants et infligeant également des dégâts brûlants sur la durée.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3638</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Frau Nils vous suit, vos attaques au corps à corps sont plus précises et votre groupe bénéfice d'un bonus de Santé.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3639</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Démon roux vous suit, vous recevez un bonus en Perception et votre groupe bénéficie d'un bonus de Réflexes.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3640</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Kathrynn Vonn Kiliann la Schatt vous suit, vous recevez un bonus en Intelligence et votre groupe bénéficie d'un bonus de Volonté.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3641</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Tit' Babs vous suit, vous recevez un bonus de Dextérité et votre groupe bénéficie d'un bonus en Déviation contre les attaques d'armes ennemies.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3645</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Prissy vous suit, vos sorts et potions de guérison sont plus efficaces et les membres de votre groupe regagnent de la Santé lorsqu'ils tuent un ennemi.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3646</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Twix vous suit, vous gagnez un bonus de Santé max et les membres de votre groupe regagnent de la Santé lorsqu'ils tuent un ennemi.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3647</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant qu'Abraham vous suit, votre malus de récupération engendré par votre armure est réduit, et les membres de votre groupe regagnent de la Santé lorsqu'ils tuent un ennemi.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3648</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant qu'Algol vous suit, toutes les afflictions touchant la Constitution que vous subissez se dissipent plus rapidement et les membres de votre groupe regagnent de la Santé lorsqu'ils tuent un ennemi.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3649</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant qu'Atlas vous suit, vous gagnez un bonus en Perception et votre groupe gagne un bonus de précision pour les armes d'attaque à distance.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3650</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Chili vous suit, vous bénéficiez d'un bonus de Détermination et votre groupe reçoit un bonus de Volonté.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3652</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Freya vous suit, vous gagnez un bonus d'Intelligence et les membres de votre groupe regagnent de la Santé lorsqu'ils tuent un ennemi.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3653</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Gizmo vous suit, vous vous déplacez plus vite en combat et votre groupe bénéficie d'un bonus de Réflexes.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3654</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Harley vous suit, vous bénéficiez d'un bonus à vos dégâts à distance et votre groupe reçoit un bonus de précision pour les armes à distance.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3655</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Hemp vous suit, vous bénéficiez d'un bonus de Constitution et votre groupe reçoit un bonus de Robustesse.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3656</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Mercedes vous suit, vous bénéficiez d'un bonus à votre Santé max et votre groupe reçoit un bonus de dégâts pour les armes de corps à corps.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3658</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Nikki vous suit, les attaques ennemies ont plus de chances de vous érafler, et votre groupe reçoit un bonus de précision pour les armes de corps à corps.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3659</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Crêpe vous suit, vous recevez un bonus en Puissance et votre groupe bénéficie d'une Valeur d'armure améliorée contre les dégâts brûlants.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3661</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Toby vous suit, vous recevez un bonus en Perception et votre groupe bénéficie d'un bonus de Santé max.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3691</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que le chat d'animancie vous suit, vous gagnez des bonus en Arcane et en Métaphysique, et toutes les créatures invoquées par votre groupe gagnent de la Puissance et de la Pénétration supplémentaires.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3693</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant qu'Eviee vous suit, vous gagnez un bonus en Détermination et en Résistance aux afflictions touchant la Détermination. La durée des afflictions touchant la Détermination appliquées à votre groupe est également réduite. &lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3695</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Xopn'aua vous suit, vous gagnez un bonus en Compréhension et en Métaphysique. Tout votre groupe bénéficie également d'un bonus de Volonté.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3830</ID>
+      <DefaultText>&lt;line-height=100%&gt;Poignée d'épines acérées enduites d'un venin débilitant. Lancées sur une cible, elles se collent au tissu, à la peau et au cuir pour délivrer leur dose de douleur sur une courte période. Entrave les adversaires.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4282</ID>
+      <DefaultText>&lt;line-height=100%&gt;Lorsque le feu follet vous suit, la durée des afflictions touchant l'Intelligence est réduite et tous les membres du groupe sont plus précis dans leurs attaques contre les esprits.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4390</ID>
+      <DefaultText>&lt;line-height=100%&gt;Lorsque le chiot des cavernes vous suit, vous bénéficiez d'un bonus de dégâts contre les réceptacles et tous les membres de votre groupe accusent moins de dégâts corrosifs.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4406</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Deus vous suit, vous gagnez un bonus de Constitution et les membres de votre groupe regagnent de la Santé lorsqu'ils tuent un ennemi.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4410</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Dan l'incomparable vous suit, les attaques ennemies vous éraflent plus souvent et votre groupe reçoit un bonus de Robustesse.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4429</ID>
+      <DefaultText>&lt;line-height=100%&gt;Crée un cône de feu devant l'utilisateur infligeant des dégâts brûlants à quiconque se trouvant dans la zone d'effet.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4456</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Marcassin vous suit, vos attaques d'armes de corps à corps ont une probabilité d'interrompre l'adversaire et votre groupe inflige des dégâts tranchants supplémentaires.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4485</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Ficelle d'écorce vous suit, toutes les afflictions touchant la Dextérité que vous subissez se dissipent plus rapidement, et votre groupe se déplace plus vite en combat.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4645</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Pozzi vous suit, vos capacités de feu sont plus puissantes et votre groupe bénéficie d'un bonus de Réflexes.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4647</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Socrate vous suit, vous regagnez de la Santé lorsque vous portez le coup de grâce à un ennemi, et votre groupe bénéficie d'une augmentation en Déviation des attaques de corps à corps.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4708</ID>
+      <DefaultText>&lt;line-height=100%&gt;Appliquer {0} afflictions touchant la Puissance&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4728</ID>
+      <DefaultText>&lt;line-height=100%&gt;Infliger {0} dégâts bruts&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4781</ID>
+      <DefaultText>&lt;line-height=100%&gt;Appliquer {0} afflictions touchant la Perception&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4802</ID>
+      <DefaultText>&lt;line-height=100%&gt;Appliquer {0} afflictions touchant l'Intelligence&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4922</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Comète vous suit, vous recevez un bonus de Puissance et votre groupe bénéficie d'un bonus en Déviation des attaques d'armes ennemies.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4935</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que le Dragonnet d'obsidienne vous suit, vous gagnez un bonus aux compétences Furtivité et Tour de passe-passe, et votre groupe bénéficie d'une précision accrue contre les ennemis pris à revers.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5137</ID>
+      <DefaultText>&lt;line-height=100%&gt;Causer {0} afflictions touchant la Dextérité&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5139</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tuer {0} ennemis avec des attaques améliorées&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5145</ID>
+      <DefaultText>&lt;line-height=100%&gt;Infliger {0} de dégâts corrosifs&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5149</ID>
+      <DefaultText>&lt;line-height=100%&gt;Infliger {0} de dégâts électriques&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5349</ID>
+      <DefaultText>&lt;line-height=100%&gt;Petit et froid au toucher, cet automate a peut-être été un prototype. Ou le fruit d'un bricolage. Ou un jouet.
+
+Lorsque Frosty vous suit, vous bénéficiez d'un bonus à la &lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;Valeur d'armure contre le givre&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_freeze" tint=1&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;/link&gt; et les attaques &lt;link="glossary://GlossaryEntry_Freezing"&gt;&lt;#b3e5fc&gt;givrantes&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_freeze" tint=1&gt;&lt;/color&gt;&lt;/link&gt; du groupe bénéficient d'une meilleure &lt;link="glossary://GlossaryEntry_Accuracy"&gt;Précision&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_accuracy" tint=1&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5498</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tuer {0} ennemis tout en étant touché par une affliction mentale.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5500</ID>
+      <DefaultText>&lt;line-height=100%&gt;Recevez {0} dégâts en ayant moins de 25 % en Santé.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5502</ID>
+      <DefaultText>&lt;line-height=100%&gt;Infligez {0} dégâts à des ennemis en ayant moins de 25% en Santé.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5649</ID>
+      <DefaultText>&lt;line-height=100%&gt;En combat, Nebula octroiera régulièrement une inspiration à un personnage de façon aléatoire. Si vous êtes attaqué alors que vous êtes Proche de la mort, Nebula bénéficie aussi d'une petite probabilité de lancer Retrait ou Rappel de la souffrance sur vous-même.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5568</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Cajux vous suit, vous regagnez de la Santé lorsque vous portez le coup de grâce à un ennemi, et votre groupe se déplace plus rapidement en combat.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5570</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Dude le chat à six doigts vous suit, vous regagnez de la Santé lorsque vous portez le coup de grâce à un ennemi, et votre groupe a moins de chances d'être atteint par les attaques.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5575</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Zorro vous suit, vous bénéficiez d'un bonus en Détermination et votre groupe reçoit un bonus en Réflexes.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5576</ID>
+      <DefaultText>&lt;line-height=100%&gt;Tant que Hati vous suit, vous bénéficiez d'un bonus en Puissance et votre groupe reçoit un bonus en Réflexes.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5825</ID>
+      <DefaultText>&lt;line-height=100%&gt;Nommée d'après l'excentrique mage aedyran Tayn, l'orbe chaotique rebondit entre plusieurs ennemis, infligeant des dégâts ainsi que diverses afflictions négatives, dont &lt;link="glossary://GlossaryEntry_Petrified"&gt;&lt;#72da26&gt;Pétrifié&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3+&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Paralyzed"&gt;&lt;#72da26&gt;Paralysé&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Weakened"&gt;&lt;#f7b733&gt;Affaibli&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;2&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Sickened"&gt;&lt;#f7b733&gt;Intoxiqué&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;font="EspinosaNova-Regular SDF"&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, &lt;link="glossary://GlossaryEntry_Stunned"&gt;&lt;#ff4800&gt;Sonné&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;, et &lt;link="glossary://GlossaryEntry_Blinded"&gt;&lt;#ca58ff&gt;Aveuglé&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5594</ID>
+      <DefaultText>&lt;line-height=100%&gt;Armure brisée&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5595</ID>
+      <DefaultText>&lt;line-height=100%&gt;Bouclier brisé&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5596</ID>
+      <DefaultText>&lt;line-height=100%&gt;Arme brisée&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5933</ID>
+      <DefaultText>&lt;line-height=100%&gt;Lorsque Lucero suit le groupe, vous bénéficiez d'une Résistance aux afflictions touchant la Dextérité, et le groupe voit son Initiative réduite après l'usage d'objets rapides.&lt;/line-height&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

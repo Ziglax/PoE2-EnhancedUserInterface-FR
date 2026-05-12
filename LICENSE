@@ -1,0 +1,21 @@
+This translation is an unofficial derivative work of the
+"PoE2 Enhanced User Interface" mod by Spherikal
+(https://github.com/Spherikal/PoE2-EnhancedUserInterface).
+
+The original mod does not publish an explicit license. This translation
+is offered to the community on a best-effort basis under the same
+implicit terms as the original mod: free to use, distribute and modify
+for personal and community purposes, with credit to the original author.
+
+If the upstream author objects to the redistribution of this translation,
+please open an issue on this repository and it will be taken down or
+adjusted.
+
+The .stringtable files in this repository contain text derived from:
+  - the structure of the original mod (© Spherikal and contributors)
+  - the official French localization of Pillars of Eternity II: Deadfire
+    (© Obsidian Entertainment / Versus Evil)
+
+No game assets, no source from the base game, and no English-language
+mod files are redistributed here — only the French translation strings
+needed to localize the mod once it is already installed.
