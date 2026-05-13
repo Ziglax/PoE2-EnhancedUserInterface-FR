@@ -2,7 +2,7 @@
 
 Unofficial French translation patch for [PoE2 Enhanced User Interface](https://github.com/Spherikal/PoE2-EnhancedUserInterface) by **Spherikal** ([Nexus page](https://www.nexusmods.com/pillarsofeternity2/mods/32)).
 
-Target mod version: **1.8.1**.
+Target mod version: **1.8.2**.
 
 ## Contents
 
