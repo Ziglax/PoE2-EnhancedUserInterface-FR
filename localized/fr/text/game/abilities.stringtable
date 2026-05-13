@@ -51,7 +51,8 @@
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>&lt;line-height=100%&gt;Offre aux alliés l'aide d'une âme compatissante qui déclenche un effet de guérison lorsqu'ils sont &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Proches de la mort&lt;/color&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Offre aux alliés l'aide d'une âme compatissante qui déclenche un effet de guérison lorsqu'ils sont &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Proches de la mort&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;/color&gt;&lt;#83838397&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt;.
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -647,7 +648,8 @@
     </Entry>
     <Entry>
       <ID>595</ID>
-      <DefaultText>&lt;line-height=100%&gt;Fait voler en éclats l'âme de la cible avec une terrible force, ce qui lui inflige des dégâts &lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;#e72c2c&gt;bruts&lt;/color&gt;&lt;#ef5350&gt;&lt;space=0.3em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;space=0.5em&gt;&lt;/link&gt;. Les cibles &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Proches de la mort&lt;/color&gt;&lt;/link&gt; explosent, infligeant au passage des dégâts &lt;link="glossary://GlossaryEntry_Crushing"&gt;&lt;#bc8a66&gt;contondants&lt;/color&gt;&lt;space=0.7em&gt;&lt;size=90%&gt;&lt;#a97e5f&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt; à tous ceux qui sont présents dans la zone d'effet.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Fait voler en éclats l'âme de la cible avec une terrible force, ce qui lui inflige des dégâts &lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;#e72c2c&gt;bruts&lt;/color&gt;&lt;#ef5350&gt;&lt;space=0.3em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;space=0.5em&gt;&lt;/link&gt;. Les cibles &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Proches de la mort&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;/color&gt;&lt;#83838397&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; explosent, infligeant au passage des dégâts &lt;link="glossary://GlossaryEntry_Crushing"&gt;&lt;#bc8a66&gt;contondants&lt;/color&gt;&lt;space=0.7em&gt;&lt;size=90%&gt;&lt;#a97e5f&gt;&lt;sprite="Inline" name="cs_blunt" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt; à tous ceux qui sont présents dans la zone d'effet.
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -937,7 +939,8 @@
     </Entry>
     <Entry>
       <ID>860</ID>
-      <DefaultText>&lt;line-height=100%&gt;Fait apparaître un anneau noir d'énergie nécrotique qui se déploie dans toutes les directions pour infliger des dégâts &lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#adc455&gt;corrosifs&lt;#9ba967&gt;&lt;space=0.3em&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt; à tout ce qu'il touche. Il peut également détruire les personnages &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Proches de la mort&lt;/color&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Fait apparaître un anneau noir d'énergie nécrotique qui se déploie dans toutes les directions pour infliger des dégâts &lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#adc455&gt;corrosifs&lt;#9ba967&gt;&lt;space=0.3em&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt; à tout ce qu'il touche. Il peut également détruire les personnages &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Proches de la mort&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;/color&gt;&lt;#83838397&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt;.
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1207,7 +1210,8 @@
     </Entry>
     <Entry>
       <ID>1208</ID>
-      <DefaultText>&lt;line-height=100%&gt;Toutes les attaques portées sur des ennemis &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Proches de la mort&lt;/color&gt;&lt;/link&gt; convertissent certains coups en coups critiques, et ces coups critiques infligent des dégâts supplémentaires.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Toutes les attaques portées sur des ennemis &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Proches de la mort&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;/color&gt;&lt;#83838397&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; convertissent certains coups en coups critiques, et ces coups critiques infligent des dégâts supplémentaires.
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1232,7 +1236,7 @@
     </Entry>
     <Entry>
       <ID>1307</ID>
-      <DefaultText>&lt;line-height=100%&gt;Lorsque les divins du feu sont &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Ensanglanté&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;s ou &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Proches de la mort&lt;/color&gt;&lt;/link&gt;, leur corps s'endurcit, ce qui augmente leur &lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;Valeur d'armure&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, et leur âme se déchaîne sur les assaillants, infligeant des dégâts &lt;link="glossary://GlossaryEntry_Burning"&gt;&lt;#e86a1d&gt;brûlants&lt;/color&gt;&lt;space=0.2em&gt;&lt;size=120%&gt;&lt;#d84315&gt;&lt;voffset=-0.05em&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;space=-4.6em&gt;&lt;#ff9800&gt;&lt;size=85%&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/size&gt;&lt;/color&gt;&lt;space=-2.9em&gt;&lt;size=45%&gt;&lt;#fff59d&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt; à tous ceux qui les frappent au corps à corps.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Lorsque les divins du feu sont &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Ensanglanté&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ou &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Proches de la mort&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;/color&gt;&lt;#83838397&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt;, leur corps s'endurcit, ce qui augmente leur &lt;link="glossary://GlossaryEntry_Armor_Rating"&gt;&lt;#57baff&gt;Valeur d'armure&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_ar" tint=1&gt;&lt;/color&gt;&lt;/link&gt;, et leur âme se déchaîne sur les assaillants, infligeant des dégâts &lt;link="glossary://GlossaryEntry_Burning"&gt;&lt;#e86a1d&gt;brûlants&lt;/color&gt;&lt;space=0.2em&gt;&lt;size=120%&gt;&lt;#d84315&gt;&lt;voffset=-0.05em&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;space=-4.6em&gt;&lt;#ff9800&gt;&lt;size=85%&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/size&gt;&lt;/color&gt;&lt;space=-2.9em&gt;&lt;size=45%&gt;&lt;#fff59d&gt;&lt;sprite="Inline" name="cs_burn" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/link&gt;&lt;space=1em&gt; à tous ceux qui les frappent au corps à corps.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2002,12 +2006,12 @@ Le temps de récupération est augmenté pour les sorts de magiciens autres qu'E
     </Entry>
     <Entry>
       <ID>2335</ID>
-      <DefaultText>&lt;line-height=100%&gt;Résistance : &lt;link="glossary://GlossaryEntry_Afflictions_Resolve"&gt;&lt;#30d3d5&gt;afflictions touchant la Détermination&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Résistance : &lt;link="glossary://GlossaryEntry_Afflictions_Resolve"&gt;afflictions touchant la Détermination &lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2337</ID>
-      <DefaultText>&lt;line-height=100%&gt;Immunité : &lt;link="glossary://GlossaryEntry_Afflictions_Resolve"&gt;&lt;#30d3d5&gt;afflictions touchant la Détermination&lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Immunité : &lt;link="glossary://GlossaryEntry_Afflictions_Resolve"&gt;afflictions touchant la Détermination &lt;sprite="Inline" name="attribute_resolve" tint=1&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2026,12 +2030,12 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>2385</ID>
-      <DefaultText>&lt;line-height=100%&gt;Immunité : &lt;link="glossary://GlossaryEntry_Afflictions_Constitution"&gt;&lt;#f7b733&gt;afflictions touchant la Constitution&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Immunité : &lt;link="glossary://GlossaryEntry_Afflictions_Constitution"&gt;afflictions touchant la Constitution &lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2386</ID>
-      <DefaultText>&lt;line-height=100%&gt;Résistance : &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;afflictions touchant la Dextérité&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Résistance : &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;afflictions touchant la Dextérité &lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2086,7 +2090,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>2465</ID>
-      <DefaultText>&lt;line-height=100%&gt;Immunité : &lt;link="glossary://GlossaryEntry_Afflictions_Might"&gt;&lt;#ff4800&gt;afflictions touchant la Puissance&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Immunité : &lt;link="glossary://GlossaryEntry_Afflictions_Might"&gt;afflictions touchant la Puissance &lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2186,22 +2190,22 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>2542</ID>
-      <DefaultText>&lt;line-height=100%&gt;Immunité : &lt;link="glossary://GlossaryEntry_Afflictions_Intellect"&gt;&lt;#00a4ff&gt;afflictions touchant l'Intelligence&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Immunité : &lt;link="glossary://GlossaryEntry_Afflictions_Intellect"&gt;afflictions touchant l'Intelligence &lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2543</ID>
-      <DefaultText>&lt;line-height=100%&gt;Résistance : &lt;link="glossary://GlossaryEntry_Afflictions_Intellect"&gt;&lt;#00a4ff&gt;afflictions touchant l'Intelligence&lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Résistance : &lt;link="glossary://GlossaryEntry_Afflictions_Intellect"&gt;afflictions touchant l'Intelligence &lt;sprite="Inline" name="attribute_intellect" tint=1&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2546</ID>
-      <DefaultText>&lt;line-height=100%&gt;Immunité : &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;&lt;#72da26&gt;afflictions touchant la Dextérité&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Immunité : &lt;link="glossary://GlossaryEntry_Afflictions_Dexterity"&gt;afflictions touchant la Dextérité &lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2549</ID>
-      <DefaultText>&lt;line-height=100%&gt;Résistance : &lt;link="glossary://GlossaryEntry_Afflictions_Constitution"&gt;&lt;#f7b733&gt;afflictions touchant la Constitution&lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Résistance : &lt;link="glossary://GlossaryEntry_Afflictions_Constitution"&gt;afflictions touchant la Constitution &lt;sprite="Inline" name="attribute_constitution" tint=1&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2386,7 +2390,8 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>2699</ID>
-      <DefaultText>&lt;line-height=100%&gt;Libère un effet qui inflige des dégâts &lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;#e72c2c&gt;bruts&lt;/color&gt;&lt;#ef5350&gt;&lt;space=0.3em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;space=0.5em&gt;&lt;/link&gt; aux ennemis situés dans une zone. Ceux qui sont &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Proches de la mort&lt;/color&gt;&lt;/link&gt; peuvent exploser, infligeant des dégâts &lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#adc455&gt;corrosifs&lt;#9ba967&gt;&lt;space=0.3em&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt; aux ennemis adjacents.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Libère un effet qui inflige des dégâts &lt;link="glossary://GlossaryEntry_Raw"&gt;&lt;#e72c2c&gt;bruts&lt;/color&gt;&lt;#ef5350&gt;&lt;space=0.3em&gt;&lt;#b71c1c&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/color&gt;&lt;space=-3.8em&gt;&lt;voffset=0.25em&gt;&lt;size=60%&gt;&lt;sprite="Inline" name="cs_raw" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;space=0.5em&gt;&lt;/link&gt; aux ennemis situés dans une zone. Ceux qui sont &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Proches de la mort&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;/color&gt;&lt;#83838397&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; peuvent exploser, infligeant des dégâts &lt;link="glossary://GlossaryEntry_Corrode"&gt;&lt;#adc455&gt;corrosifs&lt;#9ba967&gt;&lt;space=0.3em&gt;&lt;sprite="Inline" name="cs_corrosive" tint=1&gt;&lt;/color&gt;&lt;space=-0.3em&gt;&lt;/color&gt;&lt;/link&gt; aux ennemis adjacents.
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2411,12 +2416,12 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>2707</ID>
-      <DefaultText>&lt;line-height=100%&gt;Résistance : &lt;link="glossary://GlossaryEntry_Afflictions_Might"&gt;&lt;#ff4800&gt;afflictions touchant la Puissance&lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Résistance : &lt;link="glossary://GlossaryEntry_Afflictions_Might"&gt;afflictions touchant la Puissance &lt;sprite="Inline" name="attribute_might" tint=1&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2708</ID>
-      <DefaultText>&lt;line-height=100%&gt;Résistance : &lt;link="glossary://GlossaryEntry_Afflictions_Perception"&gt;&lt;#ca58ff&gt;afflictions touchant la Perception&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Résistance : &lt;link="glossary://GlossaryEntry_Afflictions_Perception"&gt;afflictions touchant la Perception &lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2496,7 +2501,8 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>2789</ID>
-      <DefaultText>&lt;line-height=100%&gt;De la magie de décomposition entoure la cible et réprime son essence vitale. Si la volonté de survie de la cible n'est pas assez forte, elle meurt directement. (Ce sort ne peut être employé que sur ceux qui sont &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Proches de la mort&lt;/color&gt;&lt;/link&gt;)&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;De la magie de décomposition entoure la cible et réprime son essence vitale. Si la volonté de survie de la cible n'est pas assez forte, elle meurt directement. (Ce sort ne peut être employé que sur ceux qui sont &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Proches de la mort&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;/color&gt;&lt;#83838397&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt;)
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2551,12 +2557,14 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>2835</ID>
-      <DefaultText>&lt;line-height=100%&gt;Les attaques &lt;link="gamedata://575a4c12-3ad1-438b-a291-62fda30b7567"&gt;&lt;#f2a624&gt;améliorées&lt;space=0.5em&gt;&lt;sprite="Inline" name="empowered" tint=1&gt;&lt;#ffc638&gt;&lt;space=-3.68em&gt;&lt;voffset=0.14em&gt;&lt;size=65%&gt;&lt;sprite="Inline" name="empowered" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/color&gt;&lt;/link&gt; contre les ennemis &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Ensanglanté&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;s ou &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Proches de la mort&lt;/color&gt;&lt;/link&gt; sont sûres d'infliger un coup critique (à condition de toucher) et reçoivent un bonus de dégâts critiques important.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Les attaques &lt;link="gamedata://575a4c12-3ad1-438b-a291-62fda30b7567"&gt;&lt;#f2a624&gt;améliorées&lt;space=0.5em&gt;&lt;sprite="Inline" name="empowered" tint=1&gt;&lt;#ffc638&gt;&lt;space=-3.68em&gt;&lt;voffset=0.14em&gt;&lt;size=65%&gt;&lt;sprite="Inline" name="empowered" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; contre les ennemis &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Ensanglanté&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ou &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Proches de la mort&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;/color&gt;&lt;#83838397&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; sont sûres d'infliger un coup critique (à condition de toucher) et reçoivent un bonus de dégâts critiques important.
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2837</ID>
-      <DefaultText>&lt;line-height=100%&gt;La cible voit sa chair transformée en pierre. Si la cible est &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Proche de la mort&lt;/color&gt;&lt;/link&gt; quand ce sort est lancé, il y a une chance que la &lt;link="glossary://GlossaryEntry_Petrified"&gt;&lt;#72da26&gt;pétrification&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3+&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt; soit permanente.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;La cible voit sa chair transformée en pierre, ce qui la rend &lt;link="glossary://GlossaryEntry_Petrified"&gt;&lt;#72da26&gt;pétrifiée&lt;space=0.7em&gt;&lt;sprite="Inline" name="attribute_dexterity" tint=1&gt;&lt;space=0.3em&gt;&lt;voffset=-0.35em&gt;&lt;size=80%&gt;&lt;b&gt;3+&lt;/b&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;/color&gt;&lt;/link&gt;. Si la cible est &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Proche de la mort&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;/color&gt;&lt;#83838397&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; quand ce sort est lancé, il y a une chance que la pétrification soit permanente.
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2676,7 +2684,7 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>3192</ID>
-      <DefaultText>&lt;line-height=100%&gt;Immunité : &lt;link="glossary://GlossaryEntry_Afflictions_Perception"&gt;&lt;#ca58ff&gt;afflictions touchant la Perception&lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;/color&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Immunité : &lt;link="glossary://GlossaryEntry_Afflictions_Perception"&gt;afflictions touchant la Perception &lt;sprite="Inline" name="attribute_perception" tint=1&gt;&lt;/link&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3615,7 +3623,8 @@ Malgré ces avantages, cette relation comporte des risques. Les rôdeurs partage
     </Entry>
     <Entry>
       <ID>4476</ID>
-      <DefaultText>&lt;line-height=100%&gt;Tue les personnages alliés, ou les ennemis qui sont &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Proches de la mort&lt;/color&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Tue les personnages alliés, ou les ennemis qui sont &lt;link="glossary://GlossaryEntry_Near_Death"&gt;&lt;#ff462d&gt;Proches de la mort&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;/color&gt;&lt;#83838397&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt;.
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

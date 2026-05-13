@@ -76,12 +76,12 @@
     </Entry>
     <Entry>
       <ID>391</ID>
-      <DefaultText>&lt;line-height=100%&gt;{0} réputation gagnée&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;&lt;#157245&gt;{0} réputation gagnée&lt;/color&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>392</ID>
-      <DefaultText>&lt;line-height=100%&gt;{0} réputation perdue&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;&lt;#bf2a2a&gt;{0} réputation perdue&lt;/color&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -379,7 +379,7 @@ Malgré ces avantages, cette relation présente des risques. La vie des rôdeurs
     </Entry>
     <Entry>
       <ID>1629</ID>
-      <DefaultText>&lt;line-height=100%&gt;Le bonus &lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Déviation&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/link&gt; de bouclier s'applique également aux &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;réflexes&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Le bonus &lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#B0CFFD&gt;Déviation&lt;space=0.7em&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;/color&gt;&lt;/link&gt; de bouclier s'applique également aux &lt;link="glossary://GlossaryEntry_Reflexes"&gt;&lt;#8bf7c3&gt;réflexes&lt;space=0.1em&gt;&lt;sprite="Inline" name="cs_reflex" tint=1&gt;&lt;space=-0.8em&gt;&lt;/color&gt;&lt;/link&gt;.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -647,13 +647,14 @@ Entre les deux yeux - Attaque à distance qui bénéficie d'un important bonus d
     </Entry>
     <Entry>
       <ID>2855</ID>
-      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-L'attaque furtive devient plus redoutable, et la récupération est réduite lorsque le bagarreur est &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Ensanglanté&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt; ou Pris à revers.
+      <DefaultText>&lt;line-height=100%&gt;&lt;b&gt;Bonus&lt;/b&gt;
+L'attaque furtive devient plus redoutable, et la récupération est réduite lorsque le bagarreur est &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Ensanglanté&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt;&lt;#000000FF&gt; ou Pris à revers.
 
-Les dégâts critiques des armes augmentent lorsque le bagarreur est à la fois &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Ensanglanté&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt; et Pris à revers.
+Les dégâts critiques des armes augmentent lorsque le bagarreur est à la fois &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Ensanglanté&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt;&lt;#000000FF&gt; et Pris à revers.
 
 &lt;b&gt;Malus&lt;/b&gt;
-Le bagarreur voit sa récupération ralentie lorsqu'il n'est ni &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Ensanglanté&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt; ni Pris à revers.</DefaultText>
+Le bagarreur voit sa récupération ralentie lorsqu'il n'est ni &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Ensanglanté&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt;&lt;#000000FF&gt; ni Pris à revers.
+&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -711,12 +712,12 @@ Le temps de récupération est augmenté pour les sorts de magiciens autres qu'E
     </Entry>
     <Entry>
       <ID>4756</ID>
-      <DefaultText>&lt;line-height=100%&gt;{0} {1} de réputation gagné auprès de {2}.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;&lt;#157245&gt;{0} {1} de réputation gagné auprès de {2}.&lt;/color&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4757</ID>
-      <DefaultText>&lt;line-height=100%&gt;{0} {1} de réputation perdu auprès de {2}.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;&lt;#bf2a2a&gt;{0} {1} de réputation perdu auprès de {2}.&lt;/color&gt;&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
